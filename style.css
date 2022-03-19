@@ -1,0 +1,22 @@
+.instant-search {
+  position: relative;
+  max-width: 250px;
+}
+
+.instant-search__input,
+.instant-search {
+  font-family: sans-serif;
+}
+
+.instant-search *,
+.instant-search {
+  transition: background 0.5s box-shadow 0.5s;
+}
+
+.instant-search,
+.instant-search__input-container {
+  border-radius: 5px;
+}
+.instant-search__input-container {
+  display: inline-flex;
+}
